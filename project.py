@@ -7,4 +7,6 @@ def choice(p1, p2) :
     return " Player 1 Won the game!!! "
   else :
     return "Player 2 won the game!!! "
+
+player1 = input("Enter your Choice (Rock, Paper, Scissor)"
 check() 
