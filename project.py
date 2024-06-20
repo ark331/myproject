@@ -8,5 +8,8 @@ def choice(p1, p2) :
   else :
     return "Player 2 won the game!!! "
 
-player1 = input("Enter your Choice (Rock, Paper, Scissor)"
+player1 = input("Enter your Choice (Rock, Paper, Scissor)") 
+print("Computer selecting moves") 
+print("Calculating probabilities ") 
+                
 check() 
