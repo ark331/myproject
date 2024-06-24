@@ -16,4 +16,4 @@ print("Computer selecting moves")
 print("Calculating probabilities ") 
 player2 = random.choice(list) 
                 
-check(player1, player
+check(player1, player2) 
